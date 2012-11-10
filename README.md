@@ -11,10 +11,11 @@ Expanding form plugin for jquery.
 ```
 
 ## Options
-
+```js
 {
 	from: ['top' | 'down']
 }
+```
 By default direction of expansion is from top to down.
 
 Don't forget to place elements in the right order!
